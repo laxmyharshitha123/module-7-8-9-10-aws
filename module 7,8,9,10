@@ -1,0 +1,671 @@
+## mcqs of 7,8,9,10 modules
+[22:10, 03/01/2026] Harshi🤍: MODULE 7: Network Security (30 MCQs)
+
+1. Network security focuses on:
+A. Hardware only
+B. Protecting network infrastructure
+C. Application coding
+D. Data analysis
+
+2. IDS stands for:
+A. Intrusion Detection System
+B. Internal Defense System
+C. Internet Detection Service
+D. Information Defense System
+
+3. IDS is used to:
+A. Block attacks
+B. Detect attacks
+C. Encrypt data
+D. Backup data
+
+4. IPS stands for:
+A. Intrusion Prevention System
+B. Internal Protection Service
+C. Internet Protection System
+D. Information Prevention Service
+
+5. IPS can:
+A. Only detect
+B. Detect and prevent
+C. Only log
+D. Ignore threats
+
+6. SIEM stands for:
+A. Security Incident Event Management
+B. Security Information and Event Management
+C. System Information Event Monitor
+D. Secure Internet Event Module
+
+7. SIEM is used for:
+A. Centralized logging
+B. Storage
+C. Compute
+D. Networking
+
+8. Which is an example of wireless security?
+A. VPN
+B. WPA3
+C. IDS
+D. SIEM
+
+9. WPA is used in:
+A. Wired networks
+B. Wireless networks
+C. Cloud storage
+D. VPN
+
+10. WPA3 is better than WPA2 because:
+A. Faster speed
+B. Stronger encryption
+C. Lower cost
+D. Easier setup
+
+11. VPN stands for:
+A. Virtual Private Network
+B. Very Private Network
+C. Verified Private Network
+D. Virtual Protected Network
+
+12. VPN provides:
+A. Public access
+B. Secure remote access
+C. DNS service
+D. CDN
+
+13. VPN encrypts:
+A. Storage
+B. Network traffic
+C. Users
+D. Servers
+
+14. Remote access security ensures:
+A. Open access
+B. Secure user access
+C. Faster internet
+D. More storage
+
+15. Firewall is used to:
+A. Encrypt data
+B. Filter traffic
+C. Backup data
+D. Monitor CPU
+
+16. Network segmentation improves:
+A. Performance only
+B. Security
+C. Cost
+D. Storage
+
+17. Which device filters traffic based on rules?
+A. Switch
+B. Firewall
+C. Hub
+D. Modem
+
+18. IDS generates:
+A. Alerts
+B. Blocks
+C. Backups
+D. Encryption
+
+19. IPS placement is usually:
+A. Out-of-band
+B. Inline
+C. Offline
+D. External
+
+20. SIEM helps in:
+A. Threat detection
+B. Incident response
+C. Compliance
+D. All
+
+21. Wireless security protects against:
+A. Eavesdropping
+B. Unauthorized access
+C. Attacks
+D. All
+
+22. VPN tunneling protocols include:
+A. IPSec
+B. SSL
+C. PPTP
+D. All
+
+23. Which is NOT a wireless security protocol?
+A. WPA
+B. WPA2
+C. WPA3
+D. IPSec
+
+24. Network monitoring helps in:
+A. Early attack detection
+B. Storage
+C. Coding
+D. Billing
+
+25. Zero Trust assumes:
+A. Trust internal network
+B. Trust no one by default
+C. Trust users
+D. Trust devices
+
+26. Network security architecture includes:
+A. Firewalls
+B. IDS/IPS
+C. VPN
+D. All
+
+27. Which prevents man-in-the-middle attacks?
+A. Encryption
+B. Open Wi-Fi
+C. No firewall
+D. Public access
+
+28. Wireless encryption standard is:
+A. AES
+B. RSA
+C. SHA
+D. MD5
+
+29. VPN is commonly used for:
+A. Cloud storage
+B. Remote employees
+C. Databases
+D. CDN
+
+30. Network security goal is:
+A. CIA triad
+B. Performance
+C. Cost reduction
+D. Speed
+
+
+MODULE 8: Cybersecurity Threats and Defense Mechanisms (30 MCQs)
+
+1. Malware is:
+A. Hardware failure
+B. Malicious software
+C. Network device
+D. Security policy
+
+2. Which is NOT a type of malware?
+A. Virus
+B. Worm
+C. Trojan
+D. Firewall
+
+3. Advanced malware analysis focuses on:
+A. Basic scanning
+B. Behavior analysis
+C. Hardware repair
+D. User training
+
+4. Which malware hides its presence?
+A. Virus
+B. Worm
+C. Rootkit
+D. Adware
+
+5. Incident response is:
+A. Preventive control
+B. Reactive process
+C. Backup method
+D. Encryption
+
+6. First phase of incident response is:
+A. Containment
+B. Eradication
+C. Preparation
+D. Recovery
+
+7. Digital forensics deals with:
+A. Physical evidence
+B. Digital evidence
+C. Network design
+D. Software testing
+
+8. Chain of custody ensures:
+A. Evidence integrity
+B. Faster analysis
+C. Encryption
+D. Cost reduction
+
+9. Which tool is used for malware analysis?
+A. Wireshark
+B. IDA Pro
+C. MS Word
+D. Excel
+
+10. Threat intelligence provides:
+A. Past attacks
+B. Information about threats
+C. User passwords
+D. System logs
+
+11. Threat hunting is:
+A. Automated alerts
+B. Proactive search for threats
+C. Incident closure
+D. Compliance
+
+12. Which attack targets system availability?
+A. Phishing
+B. DDoS
+C. SQL Injection
+D. Spoofing
+
+13. Incident handling includes:
+A. Detection
+B. Containment
+C. Recovery
+D. All
+
+14. Forensic image is:
+A. Screenshot
+B. Exact copy of data
+C. Compressed file
+D. Encrypted file
+
+15. Which is volatile evidence?
+A. Hard disk
+B. RAM
+C. USB
+D. DVD
+
+16. Malware sandbox is used to:
+A. Run malware safely
+B. Block malware
+C. Encrypt malware
+D. Delete malware
+
+17. Threat indicators include:
+A. IOC
+B. IP address
+C. Hash values
+D. All
+
+18. Which document records incident actions?
+A. Playbook
+B. Incident report
+C. Policy
+D. SLA
+
+19. Root cause analysis helps to:
+A. Fix symptoms
+B. Identify cause
+C. Hide issues
+D. Ignore attacks
+
+20. Which tool captures network packets?
+A. Nmap
+B. Wireshark
+C. Metasploit
+D. Nessus
+
+21. Memory forensics analyzes:
+A. Disk
+B. RAM
+C. Network
+D. CPU
+
+22. Threat actors include:
+A. Hackers
+B. Insiders
+C. Nation states
+D. All
+
+23. Cyber kill chain includes:
+A. Reconnaissance
+B. Exploitation
+C. Installation
+D. All
+
+24. Incident management focuses on:
+A. Prevention only
+B. Response & recovery
+C. Coding
+D. Marketing
+
+25. Log analysis helps in:
+A. Threat detection
+B. Debugging only
+C. Storage
+D. Billing
+
+26. Which attack uses social engineering?
+A. DDoS
+B. Phishing
+C. SQL Injection
+D. MITM
+
+27. Defense-in-depth means:
+A. Single security layer
+B. Multiple security layers
+C. No security
+D. Manual security
+
+28. Which is a preventive control?
+A. Firewall
+B. IDS
+C. Log review
+D. Incident report
+
+29. Which ensures evidence authenticity?
+A. Encryption
+B. Hashing
+C. Compression
+D. Backup
+
+30. Threat intelligence sources include:
+A. Open source
+B. Commercial
+C. Government
+D. All 
+
+
+ MODULE 9: Ethical Hacking and Penetration Testing (30 MCQs)
+1. Ethical hacking is:
+A. Illegal hacking
+B. Authorized testing
+C. Malware creation
+D. Data theft
+2. Penetration testing is used to:
+A. Attack systems
+B. Identify vulnerabilities
+C. Destroy data
+D. Spy users
+3. Which phase comes first in pentesting?
+A. Exploitation
+B. Reconnaissance
+C. Reporting
+D. Cleanup
+4. Black-box testing means:
+A. Full system knowledge
+B. No system knowledge
+C. Partial knowledge
+D. Internal testing
+5. White-box testing means:
+A. No access
+B. Full access
+C. External testing
+D. Automated testing
+6. Grey-box testing is:
+A. No access
+B. Full access
+C. Partial access
+D. Random access
+7. Nmap is used for:
+A. Exploitation
+B. Scanning
+C. Sniffing
+D. Encryption
+8. Metasploit is used for:
+A. Scanning
+B. Exploitation
+C. Encryption
+D. Backup
+9. Burp Suite is mainly used for:
+A. Network scanning
+B. Web app testing
+C. OS testing
+D. Cloud setup
+10. Which is a vulnerability scanner?
+A. Nessus
+B. Wireshark
+C. Metasploit
+D. Netcat
+11. Exploiting vulnerabilities means:
+A. Reporting
+B. Fixing
+C. Gaining access
+D. Blocking
+12. Which document is final pentest output?
+A. Scan log
+B. Exploit code
+C. Pentest report
+D. Policy
+13. Social engineering targets:
+A. Systems
+B. Networks
+C. Humans
+D. Firewalls
+14. SQL Injection targets:
+A. Network
+B. Database
+C. OS
+D. Memory
+15. XSS affects:
+A. Servers
+B. Databases
+C. Browsers
+D. Firewalls
+16. Which tool cracks passwords?
+A. Hydra
+B. Nmap
+C. Wireshark
+D. Burp
+17. Privilege escalation allows:
+A. Limited access
+B. Higher access
+C. Read-only
+D. No access
+18. Ethical hackers must have:
+A. Written permission
+B. Curiosity only
+C. Free access
+D. Root access
+19. Which attack intercepts communication?
+A. DDoS
+B. MITM
+C. Phishing
+D. Brute force
+20. OWASP Top 10 focuses on:
+A. Network attacks
+B. Web vulnerabilities
+C. Malware
+D. Cloud security
+21. Password attacks include:
+A. Brute force
+B. Dictionary
+C. Credential stuffing
+D. All
+22. Which is NOT pentesting phase?
+A. Reconnaissance
+B. Scanning
+C. Marketing
+D. Reporting
+23. Lateral movement means:
+A. Vertical scaling
+B. Moving within network
+C. Exiting system
+D. Backup
+24. Which test simulates real attacker?
+A. White-box
+B. Black-box
+C. Grey-box
+D. Internal audit
+25. Vulnerability severity is measured using:
+A. CVSS
+B. SLA
+C. DNS
+D. MFA
+26. Ethical hacking follows:
+A. Law
+B. Permission
+C. Scope
+D. All
+27. Which attack exploits trust?
+A. SQL Injection
+B. Phishing
+C. Buffer overflow
+D. DDoS
+28. Penetration testing is:
+A. One-time
+B. Continuous
+C. Regularly performed
+D. Random
+29. Cleanup phase ensures:
+A. Data deletion
+B. No traces left
+C. More attacks
+D. Reporting
+30. Best mitigation after pentest is:
+A. Ignore findings
+B. Patch vulnerabilities
+C. Hide report
+D. Disable system 
+
+
+ MODULE 10: Advanced Cryptography (30 MCQs)
+1. Cryptography ensures:
+A. Performance
+B. Confidentiality
+C. Storage
+D. Cost reduction
+2. AES is a:
+A. Asymmetric algorithm
+B. Symmetric algorithm
+C. Hash function
+D. Protocol
+3. RSA is:
+A. Symmetric
+B. Asymmetric
+C. Hash
+D. Encoding
+4. Which is faster?
+A. RSA
+B. AES
+C. Both same
+D. None
+5. Public key cryptography uses:
+A. One key
+B. Two keys
+C. Three keys
+D. No key
+6. TLS is used for:
+A. Secure communication
+B. Storage
+C. Backup
+D. Malware analysis
+7. IPsec works at:
+A. Application layer
+B. Transport layer
+C. Network layer
+D. Physical layer
+8. Hashing provides:
+A. Encryption
+B. Integrity
+C. Confidentiality
+D. Authentication only
+9. Which is a hash algorithm?
+A. AES
+B. RSA
+C. SHA
+D. TLS
+10. Digital signatures provide:
+A. Confidentiality
+B. Integrity & authentication
+C. Encryption only
+D. Availability
+11. Blockchain is:
+A. Centralized ledger
+B. Distributed ledger
+C. Private database
+D. File system
+12. Cryptocurrency uses:
+A. Symmetric crypto
+B. Asymmetric crypto
+C. Hashing
+D. All
+13. Which is consensus mechanism?
+A. SHA
+B. Proof of Work
+C. AES
+D. RSA
+14. Quantum cryptography is based on:
+A. Mathematics
+B. Quantum mechanics
+C. Biology
+D. Electronics
+15. Which attack targets encryption keys?
+A. Brute force
+B. DDoS
+C. Phishing
+D. SQL Injection
+16. Side-channel attack exploits:
+A. Math weakness
+B. Physical leakage
+C. Software bug
+D. Network flaw
+17. Cryptographic protocol example:
+A. HTTP
+B. FTP
+C. TLS
+D. SMTP
+18. Key length increase provides:
+A. Less security
+B. More security
+C. No effect
+D. Faster speed
+19. Which is post-quantum concern?
+A. RSA break
+B. AES break
+C. Hash break
+D. Firewall
+20. Which ensures data integrity?
+A. Encryption
+B. Hashing
+C. Backup
+D. VPN
+21. SSL is predecessor of:
+A. IPsec
+B. TLS
+C. HTTPS
+D. SSH
+22. Which crypto is used in VPN?
+A. RSA only
+B. AES
+C. IPsec
+D. All
+23. Rainbow tables are used for:
+A. Encryption
+B. Hash cracking
+C. Signing
+D. Key exchange
+24. Which is symmetric key challenge?
+A. Speed
+B. Key distribution
+C. Security
+D. Availability
+25. Digital certificates are issued by:
+A. Server
+B. CA
+C. Client
+D. Router
+26. Which algorithm is quantum-resistant?
+A. RSA
+B. ECC
+C. Lattice-based
+D. DSA
+27. Non-repudiation ensures:
+A. Sender cannot deny
+B. Receiver cannot deny
+C. Data loss
+D. Encryption
+28. Which attack targets protocols?
+A. Downgrade attack
+B. DDoS
+C. Malware
+D. Phishing
+29. Cryptanalysis means:
+A. Creating ciphers
+B. Breaking ciphers
+C. Encrypting data
+D. Key storage
+30. Best crypto practice is:
+A. Hard-code keys
+B. Use weak keys
+C. Regular key rotation
+D. Disable encryption
